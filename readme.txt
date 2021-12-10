@@ -21,3 +21,4 @@ git clone支持不指定分支和指定分支
 无法知道上传到哪里，甚至没有C1204等的远程库也可以
 通常来说本地库有本地库的操作，远程库有远程库的操作，本地可能有多个branch，但是不能从远程库pull多个branch
 只能pull一个，本地库的多个branch可以本地merge，远程库的branch也可以GitHub后台merge
+后台将branch merge 到 master有一系列操作，解决冲突，同意合并，安全删除分支，然后分支有了新的修改再上传
