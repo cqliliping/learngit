@@ -1,3 +1,8 @@
+
+GitHub需要SSH Key，Gitee也需要， 用来识别是你推送的内容，Github 和 Gitee还可以添加多个SSH Key
+git bash在本地建立了一个版本库，GitHub是一个远程库，两者进行远程同步
+关联远程库   删除远程库 注意这里的删除是删除本地库与远程库的联系，删除远程库需要得到Github后台页面进行删除
+
 Creating a new branch is quick
 我学会git分支啦
 分支李丽平
